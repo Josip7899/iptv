@@ -1,1 +1,22 @@
+#EXTM3U
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",EX-YU] Doma TV
+http://uye.performlive.eu:80/aykut35/35aykut/61515?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",EX-YU] HRT 3
+http://uye.performlive.eu:80/aykut35/35aykut/61524?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",EX-YU] RTL 2
+http://uye.performlive.eu:80/aykut35/35aykut/61573?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",EX-YU] RTL 2
+http://multi.hotdns.eu:80/omer21/omer2121/61573?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",EX-YU] RTL Crime
+http://uye.performlive.eu:80/aykut35/35aykut/61574?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="HR" tvg-logo="https://i.imgur.com/W3FBVwT.png" group-title="Undefined",HRT 1 [NO KODI]
+http://195.29.70.67/PLTV/88888888/224/3221226139/03.m3u8?checkedby:iptvsat.com&checkedby:iptvcat.com
+#EXTINF:0 tvg-country="HR" tvg-logo="https://i.imgur.com/7swOkC3.png" group-title="Undefined",HRT 2 [NO KODI]
+http://195.29.70.82/PLTV/88888888/224/3221226140/04.m3u8?checkedby:iptvsat.com&checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",HRT 3
+http://195.29.70.82/PLTV/88888888/224/3221226280/04.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="HR" tvg-logo="https://i.imgur.com/UVFs4zA.png" group-title="Undefined",HRT 4 [NO KODI]
+http://195.29.70.67/PLTV/88888888/224/3221226281/index.m3u8?checkedby:iptvsat.com&checkedby:iptvcat.com
+#EXTINF:0 tvg-country="HR" tvg-logo="https://i.imgur.com/aJGNyQn.png" group-title="Undefined",RTL [NO KODI]
+http://195.29.70.67/PLTV/88888888/224/3221226195/04.m3u8?checkedby:iptvsat.com&checkedby:iptvcat.com
 
